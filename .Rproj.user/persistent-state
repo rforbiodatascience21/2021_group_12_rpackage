@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+activeClientUrl="https://d53b04d5b91047d6a92bb5a94adc294c.app.rstudio.cloud/"
+portToken="e10b672d7729"
+=======
+>>>>>>> ee03176b197c2db86c0b0c3d4fb6124725814838
 activeClientUrl="https://d6661c4412eb45d69de76f573da9b5a6.app.rstudio.cloud/"
 build-last-errors="[]"
 build-last-errors-base-dir=""
@@ -7,4 +15,12 @@ files.monitored-path=""
 find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":false,\"ignoreCase\":false,\"results\":{\"file\":[],\"line\":[],\"lineValue\":[],\"matchOn\":[],\"matchOff\":[],\"replaceMatchOn\":[],\"replaceMatchOff\":[]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":false,\"replacePattern\":\"\"}"
 imageDirtyState="0"
 portToken="3fc339a77687"
+<<<<<<< HEAD
 saveActionState="0"
+=======
+>>>>>>> 5ebd4a62c46937b7015017c783cfaa5a278d7888
+=======
+activeClientUrl="https://e8767eb963f44aae995b21f2bb71b619.app.rstudio.cloud/"
+portToken="f667cf5ccaf7"
+>>>>>>> c6e5d6fba0fdc95678006ae682a5b69ff4027ad3
+>>>>>>> ee03176b197c2db86c0b0c3d4fb6124725814838
